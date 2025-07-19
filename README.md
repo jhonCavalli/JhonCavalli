@@ -47,7 +47,7 @@ Sou **Desenvolvedor Web** e **Técnico em Telecomunicações** com foco em solu�
 
 ## 📫 Contato
 
-- 📧 jhonatan.seuemail@gmail.com  
+- 📧 jhoncavalli@hotmail.com  
 - 💼 [LinkedIn](https://wwww.linkedin.com/in/jhonatan-cavalli-647b57338/)  
 - 🌐 Em breve: [cavalliweb.com.br](https://cavalliweb.com.br)
 
@@ -57,4 +57,7 @@ Sou **Desenvolvedor Web** e **Técnico em Telecomunicações** com foco em solu�
 > — Jhonatan Cavalli
 
 ![Jhon está codando...](https://readme-status.vercel.app/api?user=seu-usuario)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=00BFFF&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+Jhonatan+Cavalli!;Desenvolvedor+Web+e+Técnico+em+Telecom;Apaixonado+por+aprender+e+resolver+problemas!)](https://git.io/typing-svg)
+
 

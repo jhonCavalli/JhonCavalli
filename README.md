@@ -1,6 +1,6 @@
 
 
-# 👋 Olá! Eu sou Jhonatan Cavalli
+# 👋 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=00BFFF&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+Jhonatan+Cavalli!;Desenvolvedor+Web+e+Técnico+em+Telecom;Apaixonado+por+aprender+e+resolver+problemas!)](https://git.io/typing-svg)
 
 Sou **Desenvolvedor Web** e **Técnico em Telecomunicações** com foco em soluções práticas e funcionais. Tenho paixão por entender o _porquê_ das coisas e transformar ideias em projetos que geram valor real.
 
@@ -58,6 +58,6 @@ Sou **Desenvolvedor Web** e **Técnico em Telecomunicações** com foco em solu�
 
 ![Jhon está codando...](https://readme-status.vercel.app/api?user=seu-usuario)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=00BFFF&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+Jhonatan+Cavalli!;Desenvolvedor+Web+e+Técnico+em+Telecom;Apaixonado+por+aprender+e+resolver+problemas!)](https://git.io/typing-svg)
+
 
 

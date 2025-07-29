@@ -23,6 +23,7 @@ Sou **Desenvolvedor Web** e **Técnico em Telecomunicações** com foco em solu�
 ![TypeScript](https://img.shields.io/badge/-TypeScript-1572B6?style=flat&logo=TypeScript&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)
 ![React](https://img.shields.io/badge/-React-1572B6?style=flat&logo=React&logoColor=fff)
+![Python](https://img.icons8.com/color/30/python.png)
 
 ---
 

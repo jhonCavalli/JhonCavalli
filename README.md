@@ -20,6 +20,7 @@ Sou **Desenvolvedor Web** e **Técnico em Telecomunicações** com foco em solu�
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-1572B6?style=flat&logo=TypeScript&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)
 ![React](https://img.shields.io/badge/-React-1572B6?style=flat&logo=React&logoColor=fff)
 
